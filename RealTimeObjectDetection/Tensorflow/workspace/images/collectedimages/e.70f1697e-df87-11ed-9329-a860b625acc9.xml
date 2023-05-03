@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>e.70f1697e-df87-11ed-9329-a860b625acc9.png</filename>
+	<path>/Users/s1743475/ASLIntepreter/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/e.70f1697e-df87-11ed-9329-a860b625acc9.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>E</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>300</ymin>
+			<xmax>541</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>
